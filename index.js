@@ -8,3 +8,7 @@ function mooncakeSays (message){
        return ' ${mooncake} ${essage)!';
     }
     module.exports.mooncakeSays = mooncakeSays;
+
+function multiplication(a, b) {
+  return a * b;
+}
