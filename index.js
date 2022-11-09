@@ -1,4 +1,4 @@
-function mooncakeSays (message){
+function mooncakeSays (message)function name is moon {
     let mooncake = '(0.o) ';
     
     if (!message){
